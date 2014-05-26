@@ -1,0 +1,6 @@
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\bin\Debug\SqlParserSample.exe.config
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\bin\Debug\SqlParserSample.exe
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\bin\Debug\SqlParserSample.pdb
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\obj\Debug\SqlParserSample.csprojResolveAssemblyReference.cache
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\obj\Debug\SqlParserSample.exe
+c:\users\saran\documents\visual studio 2013\Projects\SqlParserSample\SqlParserSample\obj\Debug\SqlParserSample.pdb
